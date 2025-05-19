@@ -14,8 +14,8 @@ class ParkingSpotRequest(BaseModel):
     y: int
 
 video_router = APIRouter(prefix="/video", tags=["Video Processing"])
-UPLOAD_DIR = Path("app/resources/videos")
-DOWNLOAD_DIR = Path("app/resources/downloaded")  # 새로운 다운로드 디렉토리
+UPLOAD_DIR = Path("resources/videos")
+DOWNLOAD_DIR = Path("resources/downloaded")  # 새로운 다운로드 디렉토리
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
