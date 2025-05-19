@@ -14,25 +14,19 @@
 
 ### 📌 **Project Demonstration**
 
-<video width="600" height="400" controls>
-  <source src="5조_프로젝트_시연.mp4" type="video/mp4">
-</video>
+![Image](https://github.com/user-attachments/assets/35a11452-d1c7-47ba-ae1d-3e9a590d9fd2)
 
 ---
 
 ### 📌 **Processed Test 01**
 
-<video width="600" height="400" controls>
-  <source src="processed_test01.mp4" type="video/mp4">
-</video>
+![Image](https://github.com/user-attachments/assets/11708dac-1ad2-4087-b3e7-18290f906960)
 
 ---
 
 ### 📌 **Processed Test 02**
 
-<video width="600" height="400" controls>
-  <source src="processed_test02.mp4" type="video/mp4">
-</video>
+![Image](https://github.com/user-attachments/assets/d5a2933a-fd35-4b6c-8a23-4b95cdc70014)
 
 ---
 
