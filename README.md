@@ -91,7 +91,7 @@ test/
 
 | HTTP Method | Endpoint                      | 설명                           |
 | ----------- | ----------------------------- | ---------------------------- |
-| `POST`      | `/video/upload/`              | CCTV 영상 업로드 및 1초 프레임 미리보기 제공 |
+| `POST`      | `/video/upload/`              | CCTV 영상 업로드  |
 | `POST`      | `/video/select_parking_spot/` | 클릭한 주차 좌표를 서버에 저장하고 분석 시작    |
 | `GET`       | `/video/download/{filename}`  | 분석이 완료된 영상 결과 파일 다운로드        |
 | `GET`       | `/video/preview/{video_id}`   | 업로드된 영상의 1초 프레임 미리보기 제공      |
