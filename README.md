@@ -8,6 +8,34 @@
 
 ---
 
+## 🎥 **Demo**
+
+---
+
+### 📌 **Project Demonstration**
+
+<video width="600" height="400" controls>
+  <source src="./5조_프로젝트_시연.mp4" type="video/mp4">
+</video>
+
+---
+
+### 📌 **Processed Test 01**
+
+<video width="600" height="400" controls>
+  <source src="./processed_test01.mp4" type="video/mp4">
+</video>
+
+---
+
+### 📌 **Processed Test 02**
+
+<video width="600" height="400" controls>
+  <source src="./processed_test02.mp4" type="video/mp4">
+</video>
+
+---
+
 ## Repository Structure
 
 ```
